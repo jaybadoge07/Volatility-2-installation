@@ -7,7 +7,7 @@ To use this script, follow these steps:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/jaybadoge07/Volatility-2-installation.git
 ```
 
 ### 2. Make the Script Executable
