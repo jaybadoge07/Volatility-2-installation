@@ -15,7 +15,7 @@ git clone https://github.com/jaybadoge07/Volatility-2-installation.git
 Change the permissions of the installation script to make it executable:
 
 ```bash
-chmod +x installation.sh
+chmod +x Installation.sh
 ```
 
 ### 3. Run the Script
@@ -23,7 +23,7 @@ chmod +x installation.sh
 Run the installation script to automatically check and install Volatility 2.6.1 and its required dependencies:
 
 ```bash
-sudo ./installation.sh
+sudo ./Installation.sh
 ```
 
 The script will install the required dependencies, including:
